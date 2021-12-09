@@ -1,19 +1,52 @@
 # Twitter-eye
 
-Twitter Information Gathering Tool
+## Twitter Information Gathering Tool
+
+Twitter Eye is a Twitter Information Gathering Tool
+With Twitter Eye, you can search with various keywords and usernames on Twitter. Then the data you get is saved in a .csv file. This is to make it easy to read. You can then open these files in Excel, LibreOffice or etc.
+Twitter Eye is WITHOUT an API Key that you need with most tools for Twitter. 
+
+"Let's make everything easy".. 
+
+Since I'm currently working on a project and I've created this script for it, I thought it would be a good idea to make it public for everyone to benefit from.
+
+Hi there, Shall we play a game..? 😃
+
+Have some fun..!
+
+---
 
 ![Screenshot](img/banner.png)
 
-## Install Twitter Eye:
-* git clone https://github.com/BullsEye0/twitter-eye.git
+---
 
-* cd twitter-eye
+## Install Twitter Eye:
+
+To get started with Twitter Eye, you obviously have `python3` and `pip3` installed.
+
+If you haven't installed this yet, enter the following commands:
+
+
+``sudo apt install python3``
+
+
+``sudo install python3-pip``
+
+---
+
+### Install the GitHub Repository Twitter Eye:
+
+
+``git clone https://github.com/BullsEye0/twitter-eye.git``
+
+``cd twitter-eye``
   
-* pip3 install -r requirements.txt
+``pip3 install -r requirements.txt``
 
   
 ## Use:
-* python3 twitter-eye.py
+
+``python3 twitter-eye.py``
 
 
 # Contact to coder
