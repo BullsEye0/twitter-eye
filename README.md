@@ -38,10 +38,10 @@ Social Networks - Connect
 ## Donate
 
 
-I have developed Ghost Eye because I am passionate about this. 
+I have developed Twitter Eye because I am passionate about this. 
 Donations are one of the many ways to support what I do.
 
-[Donate](https://bullseye0.com/donate)
+[Donate](https://hackingpassion.com/donate/)
 
 BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
 
