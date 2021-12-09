@@ -48,6 +48,22 @@ If you haven't installed this yet, enter the following commands:
 
 ``python3 twitter-eye.py``
 
+## Video:
+
+Here's the video I made of Twitter Eye
+
+Link: 
+
+★ https://odysee.com/@hackingpassion:9/twitter-eye:7 
+
+Invite LBRY:
+
+★ https://lbry.tv/$/invite/@hackingpassion:9
+
+Feel welcome to join 😃
+
+---
+
 
 # Contact to coder
 Social Networks - Connect
