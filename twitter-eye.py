@@ -47,7 +47,6 @@ def banner():
                                                                          "Y88P"    V.1       
                                                                                    
 
-
             \033[1;m
              \033[34mTwit Eye - Twitter Information Gathering Tool \033[0m
              \033[34mAuthor: Jolanda de Koff aka Bulls Eye \033[0m
