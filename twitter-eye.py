@@ -48,7 +48,7 @@ def banner():
                                                                                    
 
             \033[1;m
-             \033[34mTwit Eye - Twitter Information Gathering Tool \033[0m
+             \033[34mTwitter Eye - Twitter Information Gathering Tool \033[0m
              \033[34mAuthor: Jolanda de Koff aka Bulls Eye \033[0m
              \033[34mGithub:  https://github.com/BullsEye0 \033[0m
              \033[34mWebsite: https://hackingpassion.com \033[0m
