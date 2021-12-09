@@ -45,7 +45,7 @@ def banner():
                                                                              888          
                                                                         Y8b d88P          
                                                                          "Y88P"           
-                                                                                         V.1
+                                                                                   V.1
 
 
             \033[1;m
