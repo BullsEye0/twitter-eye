@@ -29,6 +29,7 @@
 ########################################################################
 
 
+import chardet
 import twint
 import sys
 import time
