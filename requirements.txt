@@ -1,2 +1,2 @@
-twint
+git+https://github.com/twintproject/twint-zero.git
 chardet
