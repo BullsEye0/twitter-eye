@@ -60,7 +60,7 @@ def banner():
 
 
 def menu():
-    print("\n\033[1;34m[+] 1. Search - Fetch Xs using the search filters\033[1;m")
+    print("\n\033[1;34m[+] 1. Search - Fetch X using the search filters\033[1;m")
     print("\033[1;34m[+] 2. Email - Fetch Tweets with Email Adress\033[1;m")
     print("\033[1;34m[x] 0. Exit\033[1;m\n")
 
