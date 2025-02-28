@@ -30,6 +30,7 @@
 
 
 import chardet
+import os
 import snscrape
 import sys
 import time
