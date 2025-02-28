@@ -29,7 +29,7 @@
 ########################################################################
 
 
-import chardet
+import twint++
 import os
 import snscrape
 import sys
