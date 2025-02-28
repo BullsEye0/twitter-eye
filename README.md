@@ -16,7 +16,7 @@ Have some fun..!
 
 ---
 
-![Screenshot](img/twiteye.png)
+![Screenshot](img/X-Eye-.png)
 
 ---
 
