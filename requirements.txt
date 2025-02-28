@@ -1,2 +1,2 @@
-snscrape
+twint++
 chardet
