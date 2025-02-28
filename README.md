@@ -38,6 +38,7 @@ If you haven't installed this yet, enter the following commands:
 Use a virtual environment (optional but recommended): For Python-based tools, it’s good practice to use a virtual environment so you don’t clutter your system Python. Create one with:
 
 ```python3 -m venv osint-env```
+
 ```source osint-env/bin/activate```
 
 This creates and activates a virtual environment named osint-env. You’ll see your prompt change (often prefixed with (osint-env)), indicating the venv is active. (If you later want to exit the virtual environment, just run `deactivate`.)
