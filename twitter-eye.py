@@ -30,7 +30,7 @@
 
 
 import chardet
-import twint
+import snscrape
 import sys
 import time
 
